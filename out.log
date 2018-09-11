@@ -1,0 +1,22 @@
+[
+    (0, 1, 
+	(u'Statek', u'statek', 'subst:sg:acc:m3', 
+	    [u'nazwa pospolita'], []
+	)
+    ), 
+    (0, 1, 
+	(u'Statek', u'statek', 'subst:sg:nom:m3', 
+	    [u'nazwa pospolita'], []
+	)
+    ), 
+    (1, 2, 
+	(u'jedzie', u'jecha\u0107:v1', 'fin:sg:ter:imperf', 
+	    [], []
+	)
+    ), 
+    (1, 2, 
+	(u'jedzie', u'jecha\u0107:v2', 'fin:sg:ter:imperf', 
+	    [], []
+	)
+    )
+]

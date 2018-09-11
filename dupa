@@ -1,0 +1,35 @@
+[(0, 1, (u'Tego', u'ten', 'adj:sg:acc:m1.m2:pos', [], [])), (0, 1, (u'Tego', u'ten', 'adj:sg:gen:m1.m2.m3.n1.n2:pos', [], [])), (0, 1, (u'Tego', u'to:s', 'subst:sg:gen:n2', [], [])), (1, 2, (u'dnia', u'dzie\u0144:s1', 'subst:sg:gen:m3', [u'nazwa pospolita'], [])), (2, 3, (u'bola\u0142a', u'bole\u0107:v1', 'praet:sg:f:imperf', [], [])), (2, 3, (u'bola\u0142a', u'bole\u0107:v2', 'praet:sg:f:imperf', [], [])), (3, 4, (u'mnie', u'ja', 'ppron12:sg:acc:m1.m2.m3.f.n1.n2:pri:akc', [], [])), (3, 4, (u'mnie', u'ja', 'ppron12:sg:dat:m1.m2.m3.f.n1.n2:pri:akc', [], [])), (3, 4, (u'mnie', u'ja', 'ppron12:sg:gen:m1.m2.m3.f.n1.n2:pri:akc', [], [])), (3, 4, (u'mnie', u'ja', 'ppron12:sg:loc:m1.m2.m3.f.n1.n2:pri', [], [])), (3, 4, (u'mnie', u'mi\u0105\u0107', 'fin:sg:ter:imperf', [], [])), (4, 5, (u'dupa', u'dupa', 'subst:sg:nom:f', [u'nazwa pospolita'], [u'wulg.']))]
+------------------------------
+Wyraz:	Tego
+Leksem:	ten
+Uwagi:	[]
+Uwagi2:	[]
+Morfo:	adj:sg:acc:m1.m2:pos
+adj
+sg
+acc
+m1.m2
+pos
+------------------------------
+Wyraz:	Tego
+Leksem:	ten
+Uwagi:	[]
+Uwagi2:	[]
+Morfo:	adj:sg:gen:m1.m2.m3.n1.n2:pos
+adj
+sg
+gen
+m1.m2.m3.n1.n2
+pos
+------------------------------
+Wyraz:	Tego
+Leksem:	to:s
+Uwagi:	[]
+Uwagi2:	[]
+Morfo:	subst:sg:gen:n2
+subst
+sg
+gen
+n2
+------------------------------
+Wyraz:	dnia
